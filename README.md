@@ -108,21 +108,6 @@ The application provides:
 ### 🔹 Email Alert
 ![Email Alert](email_alert.png)
 ---
-✅ Folder Structure (IMPORTANT)
-
-vulnerability-scanner/
-│
-├── screenshots/
-│   ├── dashboard.png
-│   ├── scan_result.png
-│   └── email_alert.png
-│
-├── scanner.py
-├── dashboard.py
-├── email_alert.py
-├── README.md
-
----
 ## 🎯 Conclusion
 
 This project demonstrates a basic yet effective system for:
