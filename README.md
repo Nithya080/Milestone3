@@ -100,13 +100,13 @@ The application provides:
 ## 📸 Screenshots
 
 ### 🔹 Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](dashboard.png)
 
 ### 🔹 Scan Results
-![Scan Results](screenshots/scan_result.png)
+![Scan Results](scan_result.png)
 
 ### 🔹 Email Alert
-![Email Alert](screenshots/email_alert.png)
+![Email Alert](email_alert.png)
 ---
 ✅ Folder Structure (IMPORTANT)
 
